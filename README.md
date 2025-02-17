@@ -26,6 +26,6 @@ Write a Kubernetes YAML manifest for a Deployment running 3 replicas of an Nginx
 The image for Nginx is `nginx:latest` and port number is `80`
 
 # Q3
-Write a function that flattens arbitary layers of nested lists
+Write a Python function that flattens arbitary layers of nested lists
 
 Refer to [code](./flatten_nested_list.py)
