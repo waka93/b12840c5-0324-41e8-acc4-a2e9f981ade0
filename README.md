@@ -1,6 +1,6 @@
 # b12840c5-0324-41e8-acc4-a2e9f981ade0
 
-Write a Bash script to extract and count the number of failed login attempts from an authentication log (./auth.log) and save the results to **ssh_login_report.log**
+Write a Bash script to extract and count the number of successful and failed login attempts from an authentication log (./auth.log) and save the results to ***ssh_login_report.log***
 
 The output should have the following format
 
